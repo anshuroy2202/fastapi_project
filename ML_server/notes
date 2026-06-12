@@ -1,0 +1,33 @@
+model building
+fast api using 
+frontend for interaction
+toy dataset it is it is just a sample one
+
+
+post is used for testing beacuse post is used when we want the server to work with the datasetwhere the server will perform  task like creating a a new data and inserting orelse ml model inference is done on the data to predict or analysize
+
+
+(fast_api) PS C:\Users\anshu\OneDrive\Desktop\fastAPI> python -m streamlit --version
+C:\Users\anshu\OneDrive\Desktop\fastAPI\fast_api\Scripts\python.exe: No module named streamlit
+(fast_api) PS C:\Users\anshu\OneDrive\Desktop\fastAPI> streamlit --version          
+Streamlit, version 1.48.1
+
+
+so use python -m only for the virtual environment creation
+
+
+
+That is INVALID JSON.
+
+JSON uses:
+
+true
+
+false
+
+null
+
+
+
+we have to make sure that the both fastapi and streamlit are ruuning otherwise the prediction won't be happended 
+so use two different terminals understand 
